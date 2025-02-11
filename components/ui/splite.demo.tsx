@@ -16,10 +16,11 @@ export function SplineSceneBasic() {
       <div className="flex h-full">
         <div className="flex-1 p-12 relative z-10 flex flex-col justify-center">
           <h1 className="text-5xl md:text-6xl font-bold bg-clip-text text-transparent bg-gradient-to-b from-neutral-50 to-neutral-400 text-center">
-            TUNAHAN.TECH
+            <a href="https://linkedin.com/in/tunahanfirat" target="_blank" className="hover:underline">
+            TUNAHAN FIRAT</a>
           </h1>
           <p className="text-neutral-300 text-lg text-center">
-            WORK IN PROGRESS
+            Computer Vision Developer
           </p>
         </div>
 
